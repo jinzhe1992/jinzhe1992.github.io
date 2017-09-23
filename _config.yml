@@ -18,7 +18,7 @@ sidebar-avatar: /img/blog-avatar_myself.jpg      # use absolute URL, seeing it's
 
 # SNS settings
 RSS: false
-weibo_username:     玖贰壬申哲
+weibo_username:     jinzhe1992
 instagram_username:     jxjinzhe
 github_username:    jinzhe1992
 facebook_username:  Zhe King
@@ -87,16 +87,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "微博",
-        href: "http://weibo.com/jinzhe1992"
+        title: "京东",
+        href: "https://www.jd.com/"
     },{
         title: "小米",
-        href: "http://www.mi.com"
+        href: "https://www.mi.com/"
     },{
         title: "Google",
         href: "https://www.google.com.hk"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "电影下载",
+        href: "http://www.6vhao.tv/"
     }
 ]
