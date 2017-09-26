@@ -1,11 +1,15 @@
 ---
-layout:     post   				              # 使用的布局（不需要改）
-title:      朝花夕拾   			            	# 标题 
-subtitle:   在Github的第一篇博客         #副标题
-date:       2017-02-06 				# 时间
-author:     BY 						# 作者
-header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
-catalog: true 						# 是否归档
-tags:								#标签
+layout:     post   				                        # 使用的布局（不需要改）
+title:      朝花夕拾   			            	        # 标题 
+subtitle:   在Github的第一篇博客，重拾计算机语言          #副标题
+date:       2017-09-26            				       # 时间
+author:     玖贰壬申					            	# 作者
+header-img: img/blog_2017.9.26.jpg 	                   #这篇文章标题背景图片
+catalog: true 					                     	# 是否归档
+tags:							                     	#标签
     - 生活
+    - 杂谈
+    - 日记
 ---
+#写在日记之前
+    又是一篇第一篇博客，不知道写了多少第一篇了。对于*Github*来说确实没错，不过每次到新的平台
