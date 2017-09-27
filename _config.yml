@@ -87,16 +87,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "京东",
-        href: "https://www.jd.com/"
+        title: "Anc",
+        href: "https://ancientwood.github.io/"
     },{
-        title: "小米",
-        href: "https://www.mi.com/"
+        title: "Ice",
+        href: "https://whitecodes.github.io/"
     },{
-        title: "Google",
+        title: "Mi",
         href: "https://www.google.com.hk"
     },{
-        title: "电影下载",
+        title: "Moive",
         href: "http://www.6vhao.tv/"
     }
 ]
